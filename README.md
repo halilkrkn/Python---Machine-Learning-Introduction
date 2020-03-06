@@ -1,3 +1,3 @@
-# Python Intro
+# Python Introduction
 
-Hi, Python!!
+Hi, Started Python!!
