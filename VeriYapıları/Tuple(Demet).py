@@ -1,5 +1,17 @@
 # -*- coding: utf-8 -*-
 
+#Tuple = Demet
+#
+#- Kapsayıcıdır.
+#- Sıralıdır.
+#- DEĞİŞTİRİLEMEZLER.
+
+#- () ve tuple() İçerisine yazılır tuple - demet
+
+#Erişim işlemleri Listelerle aynıdır.
+#Ama sadece içerisindeki veriler DEĞİŞTİRLEMEZ
+
+#tuple oluşturme
 tupleListe = (2,4,6,"Osmaniye",(1,2,3),[])
 liste = [2,4,6,"Osmaniye",[5,8,9],()]
 

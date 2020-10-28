@@ -1,4 +1,14 @@
 
+#Listeler = Lists
+# - Değiştirilebilirdir
+# - Kapsayıcıdır(farklı tipte verileri tutabilir)
+# - Sıralıdır
+
+#******LİSTE OLUŞTURMA*****
+# *[] ve list() formatında liste oluşturulur
+
+
+
 ogrenciler = ["halil","KArkin",24]
 print(ogrenciler[2])
 ogrenciler.append("Musa")

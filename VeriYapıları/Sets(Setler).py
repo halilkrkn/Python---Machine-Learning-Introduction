@@ -2,6 +2,16 @@
 
 # Set = Setlerde listedeki var olan bir datayı değiştiremiyoruz. 
 ## Ama listeye yeni bir eleman eklenir.
+# Setler - Sets
+
+#- Sırasızdır.
+#- Değerleri Eşsizdir.
+#- Değiştirelebilirdir.
+#- Farklı Tipleri Barındırabilir.
+
+#- set() içerisine verileri yazarak yaparız.
+
+
 studentsSet = {"Halil", "Göktuğ","Yusuf","Musa"}
 print(studentsSet)
 
