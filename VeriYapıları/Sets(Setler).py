@@ -9,7 +9,7 @@
 #- Değiştirelebilirdir.
 #- Farklı Tipleri Barındırabilir.
 
-#- set() içerisine verileri yazarak yaparız.
+#- a= {} ve set([]) içerisine verileri yazarak yaparız.
 
 
 studentsSet = {"Halil", "Göktuğ","Yusuf","Musa"}
@@ -44,4 +44,4 @@ print(studentsSet)
 x= studentsSet.clear()
 print(len(studentsSet))
 del studentsSet
-print(studentsSet)
+#print(studentsSet)
